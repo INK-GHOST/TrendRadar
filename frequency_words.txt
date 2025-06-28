@@ -69,9 +69,12 @@ ipad
 mac
 ios
 
-ai
-!gai
 人工智能
+AI  
+ChatGPT
++技术
+!广告
+!培训
 
 汽车
 自动驾驶
